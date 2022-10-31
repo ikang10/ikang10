@@ -1,6 +1,6 @@
 <h1>Hi, I'm Isaac Kang! </h1>
-<h3>I'm a self taught programmer skilled in Java and Javascript. Fascinated with how programming languages works, I decided to learn as much as I can to know what
-programming is. Dedicated to learn and solve programs. Currently learning data strucutre and algorithms. </h3>
+<h3>Fascinated with how programming languages worked, I knew I was hooked into the world of software development. My path to being self-taught has challenged me to
+learn and improve my skills in creating high-quality software. Dedicated and passionate to learn and solve problems. With my experience, I am seeking to a position to expand my growth.</h3>
 
 <h2>👨‍💻 Java Projects:</h2>
 
