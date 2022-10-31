@@ -1,6 +1,5 @@
 <h1>Hi, I'm Isaac Kang! </h1>
-<h3>Fascinated with how programming languages worked, I knew I was hooked into the world of software development. My path to being self-taught has challenged me to
-learn and improve my skills in creating high-quality software. Dedicated and passionate to learn and solve problems. With my experience, I am seeking to a position to expand my growth.</h3>
+<h3>Fascinated with how programming languages work, I knew I was hooked into the world of software development. My path to being self-taught has challenged me to strive and be more passionate to learn and solve problems in coding. Being dedicated to improving my skill and learning, with my experience, I believe I can be a great asset to any company.</h3>
 
 <h2>👨‍💻 Java Projects:</h2>
 
