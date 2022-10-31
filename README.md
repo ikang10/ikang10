@@ -4,7 +4,7 @@ programming is. Dedicated to learn and solve programs. Currently learning data s
 
 <h2>👨‍💻 Java Projects:</h2>
 
-- <b>[Snake](https://github.com/ikang10/ikang10/new/main)</b>
+- <b>[Snake](https://github.com/ikang10/Snake-game)</b>
 - <b>[Login System](https://github.com/ikang10/Login-System)</b>
 - <b>[Calculator](https://github.com/ikang10/Calculator)</b>
 - <b>[Text Editor](https://github.com/ikang10/Text-Editor)</b>
